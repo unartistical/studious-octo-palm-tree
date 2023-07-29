@@ -1,2 +1,2 @@
 # studious-octo-palm-tree
-Project: Landing Page
+Project: Landing Page / The Odin Project
